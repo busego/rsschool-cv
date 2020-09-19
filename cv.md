@@ -1,26 +1,32 @@
 # **Junior Developer Resume!**
 
-1. ### Yegor Busko
 
-2. ### Contact info
-Gmail: *busko.egor@gmail.com*
-Skype: *yegorBusko*
+### 1. Yegor Busko
+<br/>
 
-3. ### Summary  
+### 2. Contact info
+* Gmail: *busko.egor@gmail.com*
+* Skype: *yegorBusko* <br/>
+
+
+### 3. Summary  
+
 I'm 19. Always liked Math and since the 10th grade was interested in programming. 
 Entered the BSU at the Faculty of Applied Mathematics and Computer Science in 2018. 
 In the university there is a lot of Math but programming is also present. 
-Mostly like algorithmic tasks, learning English & German. 
+Mostly like algorithmic tasks, learning English & German. <br/>
 
-4. ### Programming languages knowledge *(on 19.09.2020)* :
+
+### 4. Programming languages knowledge *(on 19.09.2020)* :
 
 * middle:   C/C++, Java
 * beginner: C#, JavaScript / HTML / CSS, SQL
 
-Worked with: IntelliJ IDEA, Visual Studio, Postman, Wolfram Mathematica, Scratch
+Worked with: IntelliJ IDEA, Visual Studio, Postman, Wolfram Mathematica, Scratch <br/>
 	
 
-5. ### Code examples
+### 5. Code examples
+
 The one of the latest Code examples on Algorithms subject in BSU 
 (one function in Java):
 
@@ -48,14 +54,16 @@ public static void dijkstra2() {
         }
     }
 ```
+<br/>
 
-6. In the University, in addition to many laboratory works, worked with 'IRunner' - automatic testing system. 
-From February to May software engineering company Exadel practiced us.
+### 6. Experience 
+In the University, in addition to many laboratory works, worked with 'IRunner' - automatic testing system. 
+From February to May software engineering company Exadel practiced us. <br/>
 
-7. ### Education 
+### 7. Education 
 - I study at the FAMCS, BSU. Will graduate in 2022. 
 - In 2016 passed 3month courses 'Website design in Adobe Photoshop'.
-- Everyday learning English (B1+) and German (A2).
+- Everyday learning English (B1+) and German (A2). <br/>
 
-8. ### English  
-Studied English at school; with a tutor; often watch movies in English.
+### 8. English  
+Studied English at school; with a tutor; often watch movies in English. <br/>
