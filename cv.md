@@ -2,7 +2,7 @@
 
 
 ### 1. Yegor Busko
-<br/>
+
 
 ### 2. Contact info
 * Gmail: *busko.egor@gmail.com*
@@ -54,7 +54,6 @@ public static void dijkstra2() {
         }
     }
 ```
-<br/>
 
 ### 6. Experience 
 In the University, in addition to many laboratory works, worked with 'IRunner' - automatic testing system. 
@@ -63,7 +62,7 @@ From February to May software engineering company Exadel practiced us. <br/>
 ### 7. Education 
 - I study at the FAMCS, BSU. Will graduate in 2022. 
 - In 2016 passed 3month courses 'Website design in Adobe Photoshop'.
-- Everyday learning English (B1+) and German (A2). <br/>
+- Everyday learning English (B1+) and German (A2). <br/> 
 
 ### 8. English  
 Studied English at school; with a tutor; often watch movies in English. <br/>
