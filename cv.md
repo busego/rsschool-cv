@@ -9,11 +9,11 @@
 * Skype: *yegorBusko* <br/>
 
 
-### 3. Summary  
+### 3. Summary
 
-I'm 19. Always liked Math and since the 10th grade was interested in programming. 
-Entered the BSU at the Faculty of Applied Mathematics and Computer Science in 2018. 
-In the university there is a lot of Math but programming is also present. 
+I'm 19. Always liked Math and since the 10th grade was interested in programming.
+Entered the BSU at the Faculty of Applied Mathematics and Computer Science in 2018.
+In the university there is a lot of Math but programming is also present.
 Mostly like algorithmic tasks, learning English & German. <br/>
 
 
@@ -23,11 +23,11 @@ Mostly like algorithmic tasks, learning English & German. <br/>
 * beginner: C#, JavaScript / HTML / CSS, SQL
 
 Worked with: IntelliJ IDEA, Visual Studio, Postman, Wolfram Mathematica, Scratch <br/>
-	
+
 
 ### 5. Code examples
 
-The one of the latest Code examples on Algorithms subject in BSU 
+The one of the latest Code examples on Algorithms subject in BSU
 (one function in Java):
 
 ```
@@ -55,14 +55,14 @@ public static void dijkstra2() {
     }
 ```
 
-### 6. Experience 
-In the University, in addition to many laboratory works, worked with 'IRunner' - automatic testing system. 
+### 6. Experience
+In the University, in addition to many laboratory works, worked with 'IRunner' - automatic testing system.
 From February to May software engineering company Exadel practiced us. <br/>
 
-### 7. Education 
-- I study at the FAMCS, BSU. Will graduate in 2022. 
+### 7. Education
+- I study at the FAMCS, BSU. Will graduate in 2022.
 - In 2016 passed 3month courses 'Website design in Adobe Photoshop'.
-- Everyday learning English (B1+) and German (A2). <br/> 
+- Everyday learning English (B1+) and German (A2). <br/>
 
-### 8. English  
+### 8. English
 Studied English at school; with a tutor; often watch movies in English. <br/>
